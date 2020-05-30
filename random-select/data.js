@@ -1,5 +1,4 @@
 let pictures=[
-    "https://hk.wamazing.com/media/wp-content/uploads/sites/5/2019/06/okinawaramen1.jpg",
-    "https://d3l76hx23vw40a.cloudfront.net/recipe/yqn093-027c.jpg",
-    "https://foodpicks.tw/wp-content/uploads/2019-11-03_114250-696x406.jpg"
-];
+    "https://pic.pimg.tw/summuslovecyndi/1480233261-2902284461.jpg",
+    "https://img.tiffany0118.com/uploads/20200113200825_91.jpg",
+    "https://www.siammore.com.tw/images/2019/0102.jpg"];
